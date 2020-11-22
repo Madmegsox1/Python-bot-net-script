@@ -19,6 +19,7 @@
   - enter the ip or domain you would like to attack
   - enter the port you would like to attack
   - enter the number of threads
+  - wait for the slaves to connect ;)
   
  ### How to Ping:
  - make a .txt in the same dir as the master file and put all the slave ips in it
