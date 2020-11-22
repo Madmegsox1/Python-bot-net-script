@@ -27,8 +27,8 @@
 ## Slave side:
 
 ### Just run it lmao
-- it starts on start-up as an invisble file
-- it then wait for the mater to connect and sned dos info
+- it starts on start-up as an invisble file and hides its self
+- it then waits for the master to connect and send the ddoings info
  
  </details>
 <details>
