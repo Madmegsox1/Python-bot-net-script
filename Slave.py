@@ -64,8 +64,8 @@ def main():
                     Continue = True
                     data = s.recv(1024)
                     data = data.decode("utf8")
-                    Based = {"data":data, "connected":connected}
-
+                    Based = {"data":data, "connected":connected}               
+                    s.close()
                     return Based
                 except:
                     print("error")
