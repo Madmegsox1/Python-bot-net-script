@@ -2,7 +2,7 @@
 
 
 
-### This is educational purposes ONLY!!
+### This is for educational purposes ONLY!!
 
 <details>
 <summary>
